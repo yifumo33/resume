@@ -1,3 +1,4 @@
+@charset "utf-8";
 # resume
 # 个人简历
 ## 年龄：25
